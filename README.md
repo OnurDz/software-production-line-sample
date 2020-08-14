@@ -1,4 +1,4 @@
-## SPLE Reporthttps://github.com/cosinus30
+## SPLE Report
 This repository contains the report prepared for a Software Production Line class project.
 In this project, the assumption is we are working o a company that produces MRI software. 
 Software Architecture Team has presented their arcitecture report for us to create a Software Production line in reference to their work. <br>
